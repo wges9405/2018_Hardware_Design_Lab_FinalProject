@@ -2,4 +2,4 @@
 Course ID: NTHU CS 210401  
 Instructor: Chun-Yi Lee  
 Member: 蔡登瑞, 蔡政諺  
-Demo Video: https://youtube.com/shorts/luby9wsj4Mc?feature=share
+Final Project Demo Video: https://youtube.com/shorts/luby9wsj4Mc?feature=share
